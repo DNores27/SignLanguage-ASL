@@ -10,11 +10,8 @@ El objetivo es cerrar la brecha de comunicación permitiendo que la cámara trad
 ## 🛠️ Requisitos e Instalación
 
 ### 1. Entorno de Desarrollo
-Se recomienda encarecidamente trabajar dentro de un **Entorno Virtual** (`venv`) para aislar las dependencias del sistema operativo.
+Se recomienda trabajar dentro de un **Entorno Virtual** (`venv`) para aislar las dependencias del sistema operativo.
 
-
-
-```bash
 # Crear el entorno virtual
 python -m venv venv
 
