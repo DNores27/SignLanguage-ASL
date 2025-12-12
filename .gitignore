@@ -1,0 +1,17 @@
+# Ignorar entorno virtual (¡Muy importante!)
+venv/
+
+# Ignorar archivos compilados de Python
+__pycache__/
+*.pyc
+
+# Ignorar Datasets gigantes (GitHub no soporta archivos de >100MB gratis)
+input/
+dataset_raw/
+dataset_processed/
+
+# Ignorar configuraciones de VS Code
+.vscode/
+
+# (Opcional) Si quieres ignorar el modelo si es muy pesado, aunque el .pkl suele ser ligero
+# sign_model.pkl
